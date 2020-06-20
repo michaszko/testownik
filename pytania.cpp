@@ -1,18 +1,18 @@
+#include <stdlib.h>
 #include <cstdio>
 #include <fstream>
 #include <iostream>
 #include <sstream>
 #include <string>
 #include <vector>
-#include <stdlib.h>
 using namespace std;
 
 int main() {
   srand(time(NULL));
 
-  ifstream infile("test.txt");
+  ifstream infile("dudycz.txt");
 
-  string tab[50][2];
+  string tab[55][2];
 
   bool pytanie, odpowiedz;
 
@@ -23,22 +23,19 @@ int main() {
   std::string line;
   while (getline(infile, line)) {
     if (!line.empty()) {
-      if (pytanie) {
-          tab[licznik][0] += "\x1b[1m" + line + "\x1b[0m";
-          tab[licznik][0] += "\n";
-      }
-
-      else if (!pytanie) {
-        tab[licznik][1] += "\x1b[36m" + line + "\x1b[0m";
+      if (pytanie) { 
+        tab[licznik][0] += line;
+        tab[licznik][0] += "\n";
+      } else if (!pytanie) {
+        tab[licznik][1] += line;
         tab[licznik][1] += "\n";
-    	}
-    }
-    else if(line.empty()) {
-    	pytanie = !pytanie;
+      }
+    } else if (line.empty()) {
+      pytanie = !pytanie;
 
-    	if(pytanie){
-          licznik++;
-        }
+      if (pytanie) {
+        licznik++;
+      }
     }
   }
 

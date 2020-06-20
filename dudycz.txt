@@ -1,0 +1,424 @@
+1. Od czego zależy koszt kapitału?
+
+Koszt kapitału jest minimalną korzyścią, jakiej oczekują jego właściciele w zależności od ryzyka na jaki go wystawiają. Zależy od:
+* możliwości produkcyjnych
+* preferencji czasowych dla konsumpcji
+* ryzyka
+* inflacji
+
+2. Wymień dwa podstawowe powody dla których koszt kapitału jest parametrem ważnym dla podejmowania decyzji?
+
+Krytyczną zmienną przy podejmowaniu decyzji czy nasze zasoby przeznaczyć na bieżącą konsumpcję, zaoszczędzić na później czy też zainwestować, jest koszt kapitału. Jest on kursem wymiany przy podejmowaniu decyzji.
+* Koszt kapitału jest stopą płotkową (graniczną stopą zwrotu) – określa, czy dane przedsięwzięcie jest opłacalne, czy nie (gdy stopa płotkowa zostanie przekroczona zwiększają się udziały przedsiębiorstwa)
+* Koszt kapitału odzwierciedla alternatywne możliwości inwestowania przy tym samym poziomie ryzyka gdyż to one kształtują oczekiwania dawców kapitału co do zwroty z dokonywanych inwestycji, są więc dla przedsiębiorstwa graniczną stopą zwrotu, której przekraczanie gwarantuje, że dawcy kapitału będą usatysfakcjonowani i skłonni pozostawić kapitał w przedsiębiorstwie.
+
+3. Co oznacza, że koszt kapitału jest stopą płotkową (graniczną stopą zwrotu)?
+
+Oznacza, że należy przekroczyć ten próg aby inwestycja przynosiła zyski. Jeżeli nie przekroczymy tego progu to oznacza że nie finalizujemy własnych długów/kosztu kapitału, prowadzi to też do tego że jeżeli stopa płotkowa nie zostanie przekroczona to nie będziemy mogli utrzymać inwestorów w naszej firmie ponieważ nie będzie to dla nich zyskowne. W innym wypadku będziemy ich do siebie przyciągać.
+
+4. Dlaczego kapitał własny ryzykuje więcej od kapitału obcego?
+
+Kapitały własne to kapitały właścicieli wniesione do przedsiębiorstwa bądź w momencie jego zakładania czy kupna, bądź też drogą pośrednią przez akumulację wypracowanych zysków. Kapitały obce to kapitały wierzycielskie, które zostały użyczone przedsiębiorstwu na określony czas za ustaloną cenę. Właściciele, angażując swoje kapitały, ponoszą całe ryzyko gospodarcze, gdyż w razie upadłości wszystkie zobowiązania będą tymi kapitałami pokrywane. Jednak każdy inwestor, lokując kapitały w przedsiębiorstwie, oczekuje zysków adekwatnych do ryzyka jakie ponosi. Właściciele z jednej strony pokrywają swoimi kapitałami wszystkie straty, jakie powstaną w wypadku złej koniunktury. Trzeba tez wspomnieć że zyski dla właścicieli kapitałów są wypłacane w ostatniej kolejności, z kolei straty ponoszone są też przez kapitał własny w pełnej formie.
+
+5. Podaj podstawowe cechy kapitałów.
+
+Kapitał własny:
+-kapitał właścicieli przedsiębiorstwa
+-ponosi ryzyko działalności gospodarczej(nie wywiązywanie się ze zobowiązań wobec dawców kapitału własnego nie jest podstawą do zgłoszenia wniosku o upadłość)
+-uczestniczy w podziale zysku
+Kapitał obcy:
+-nie ponosi ryzyka działalności gospodarczej
+-nie wywiązywanie się ze zobowiązań wobec dawców kapitału obcego jest podstawą do zgłoszenia wniosku o upadłość
+-nie uczestniczy w podziale zysków, lecz otrzymuje korzyści w postaci odsetek
+
+6. Wymień i scharakteryzuj podstawowe funkcje kapitału własnego.
+
+• Finansowanie aktywów (kapitał własny jest traktowany jako źródło pokrycia strat; finansuje aktywa)
+• Wiarygodności (Im większy udział kapitałów własnych w finansowaniu przedsiębiorstwa, tym większa wiarygodność kredytowa, czyli warunkuje zdolność po pozyskania kapitałów obcych)
+• Zabezpieczająca (podnoszą one i utrzymują tzw. kredyt zaufania)
+• Inicjatywna (Jeżeli firma nie jest zadłużona to ma więcej możliwości działania)
+• Inicjująca (Kapitał własny inicjuje powstanie przedsiębiorstwa i uzyskanie kapitału obcego)
+
+7. Co to jest agio?
+
+agio – nadwyżka uzyskana z sprzedaży udziałów powyżej ich wartości nominalnej
+
+8. Przeznaczenie i tworzenie kapitału podstawowego
+
+Rodzaj: Kapitał podstawowy
+Przeznaczenie/definicja: Stanowi bazę finansową dla działania przedsiębiorstwa i jest formalną gwarancją zaspokojenia roszczeń wierzycieli spółki
+Tworzenie: Z pierwotnie wniesionych wkładów przez wspólników przy zakładaniu przedsiębiorstwa oraz późniejszych wkładów podwyższających ten kapitał
+
+9. Przeznaczenie i tworzenie kapitału rezerwowego
+
+Kapitał rezerwowy
+Może być przeznaczony na wypłaty dywidend jak również źródłem finansowania inwestycji, prac badawczo-rozwojowych, czy szczególnych świadczeń na rzecz pracowników
+Tworzony jest dobrowolnie z odpisów z zysków
+
+10. Przeznaczenie i tworzenie kapitału zapasowego.
+
+Kapitał zapasowy
+Jest rezerwą finansową stabilizującą działalność przedsiębiorstwa i służy głównie do pokrycia ewentualnych strat
+Głównym źródłem tego kapitału jest tzw. agio – nadwyżka uzyskana z sprzedaży udziałów powyżej ich wartości nominalnej; tworzony jest także z odpisów z zysku oraz dopłat dokonywanych przez akcjonariuszy w zamian za specjalne uprawnienia
+
+11. Podaj złote reguły finansowania przedsiębiorstwa
+
+I. Złota reguła bilansowa- jako kryterium stopień ryzyka. Mówi o tym, że majątek obarczony wysokim ryzykiem powinien być finansowany z kapitału własnego (czyli aktywa trwałe).
+II. Złota reguła bankowa- stawia z jednej strony stopień związania majątku a z drugiej terminowość kapitału. Długoterminowo związany majątek powinien być finansowany z kapitału długoterminowego. Czyli cały majątek trwały oraz długoterminowe elementy majątku obrotowego (w praktyce: stała część zapasów) powinny być pokryte kapitałami własnymi oraz długoterminowymi kapitałami obcymi.
+
+12. Co to są należności?
+
+Należności to uprawnienie jednostki do otrzymania świadczenia pieniężnego od drugiej osoby fizycznej lub prawnej, czyli od dłużnika (dostawa wyrobów, świadczone usługi itp.), powstają z tytułu płatności z odroczonym terminem (kredyt kupiecki) jest to forma zachęty, dodatkowa wartość towaru.
+
+13. Co to są przychody?
+
+To wartość sprzedaży; [ilość x cena]. Uzyskany lub należny wpływ wartości, korzyści materialnych w ramach prowadzonej działalności. Najczęściej przychodem jest łączna wartość sprzedaży dóbr, towarów i usług netto (bez podatku VAT) w okresie rozliczeniowym (dzień, miesiąc lub rok obrachunkowy).
+
+14. Co to są zobowiązania?
+
+Zobowiązanie jest to pieniężne lub rzeczowe świadczenie dłużnika na rzecz wierzyciela, które na dzień powstania musi mieć ściśle określoną wartość oraz termin zrealizowania (zapłaty). Zobowiązanie powstaje wówczas, gdy zachodzi różnica pomiędzy momentem zaistnienia obowiązku zapłaty a momentem jego zrealizowania. W okresie pomiędzy dniem otrzymania dostawy a dniem uregulowania zobowiązania jednostka jest w posiadaniu środków gospodarczych, które czasowo nie są jej własnością; występujące wówczas dwie strony określane są jako dłużnik (odbiorca) oraz wierzyciel (dostawca). Zobowiązanie jest źródłem finansowania, kapitałem obcym składników majątkowych, będących w dyspozycji danej jednostki; w określonym terminie jednostka jest zobowiązana zwrócić obce składniki majątku lub ich równowartość właścicielowi tego majątku.
+
+15. Co to są koszty?
+
+Poniesione nakłady wyrażone w jednostkach pieniężnych poniesione w celu uzyskania przychodu Nakłady te muszą być gospodarczo uzasadnione w przeciwnym razie odzwierciedlają nie koszty tylko straty. Koszty muszą odnosić się do tego samego okresu, do którego odnosimy przychody.
+
+16. Podaj memoriałową zasadę rachunkowości oraz omów jej skutki?
+
+Wszelkie zdarzenia gospodarcze księgowane są w dniu w którym powstają bez względu na to czy są skuteczne finansowo czy też nie.
+Zgodnie z tą zasadą zaksięgowany przychód oznacza tylko wystawioną fakturę, a niekoniecznie wpływy gotówkowe, które mogą być przesunięte w czasie. 
+Konsekwencją memoriałowej zasady rachunkowości jest ujęcie w księgach rachunkowych wszystkich zdarzeń gospodarczych, które wystąpiły w danym roku budżetowym (przychód nie oznacza wpływu, koszt nie oznacza wydatku, a zysk nie oznacza wpływu pieniędzy). Ujęcie takie stwarza możliwość kompleksowego zaprezentowania tych zdarzeń (w tym należności i zobowiązań). 
+
+17. Co to jest bilans?
+
+To sprawozdanie o sytuacji majątkowej i finansowej przedsiębiorstwa, zestawia majątek przedsiębiorstwa (aktywa) i źródła jego finansowania (pasywa). Sporządzany jest na określony dzień. Spełniona musi być zasada równowagi bilansowej tj. suma aktywów musi się równać sumie pasywów.
+
+18. Scharakteryzuj aktywa trwałe i obrotowe?
+
+AKTYWA TRWAŁE:
+I Wartości niematerialne i prawne
+II Rzeczowe aktywa trwałe
+III Należności długoterminowe
+IV Inwestycje długoterminowe
+V Długoterminowe rozliczenia międzyokresowe
+-nie zużywają się w ciągu jednego cyklu produkcyjnego
+-podnoszą wiarygodność przedsiębiorstwa
+-są obarczone wysokim ryzykiem („mało płynne”)
+- może istnieć przedsiębiorstwo bez aktywów trwałych
+AKTYWA OBROTOWE:
+I Zapasy
+II Należności krótkoterminowe
+III Inwestycje krótkoterminowe
+IV Krótkoterminowe rozliczenia międzyokresowe
+-zużywają się w trakcie jednego cyklu produkcyjnego
+-obracamy nimi w procesie produkcji
+- zmieniają swoją postać w przedsiębiorstwie, przynosząc zysk
+
+19. Od czego zależy wielkość zapasów i należności?
+
+Poziom zapasów zależy od:
+* technologii
+* sezonowości sprzedaży
+* trwałości
+* Unikalności (łatwo/trudno dostępne materiały)
+Poziom należności zależy od:
+* sytuacji w branży
+* atrakcyjności towaru
+* środków pieniężnych
+
+20. Co to jest rachunek zysków i strat i podaj najprostszą formę.
+
+To sprawozdanie przedstawiające dokonania przedsiębiorstwa za dany okres. Zestawia przychody i koszty ich osiągnięcia.
+Oceniając przedsiębiorstwo na podstawie tego sprawozdania powinniśmy starać się określić, w których obszarach działalności przedsiębiorstwo pracuje najefektywniej, które obszary przyczyniają się do wypracowania zysku, a które do poniesienia straty. Musimy porównać dynamikę przychodów i dynamikę kosztów. Dla przedsiębiorstwa najlepsza sytuacja to taka, kiedy dynamika przychodów przewyższa dynamikę kosztów. W rachunku zysków i strat obowiązuje zasada memoriałowa, sporządzany jest na dany okres.
+   Przychody
+-  Koszty
+= Zysk operacyjny
+-  Odsetki
+=  Zysk brutto
+-   Podatek
+=  Zysk netto
+
+21. Według jakiej zasady sporządzane jest sprawozdanie z przepływów środków pieniężnych i jakie są konsekwencje stosowania tej reguły?
+
+Sprawozdanie z przepływów środków pieniężnych jest sporządzane wg. zasady kasowej. Polega ona na zliczanie do przychodów/kosztów tylko tych przychodów/kosztów, które nastąpiły w wyniku rzeczywistego wpływu środków pieniężnych. Odzwierciedla faktyczny ruch pieniądza w przedsiębiorstwie.
+
+22. Wymień i scharakteryzuj główne obszary funkcjonowania przedsiębiorstwa oraz źródła wpływów i wydatków generowane w tych obszarach uwzględnione w sprawozdaniu środków pieniężnych.
+
+Obszar operacyjny:
+przypływy kształtują się różnie ze względu na specyfikę danego przedsiębiorstwa. W zależności od tego co jest działalnością podstawową dla danego podmiotu będą to wpływy i wydatki z działalności produkcyjnej, handlowej lub usługowej. 
+W sprawozdaniu przepływów pieniężnych skorygowany jest ten wynik o amortyzację, która jest wydatkiem niepieniężnym i inne pozycje nie będące faktycznymi wydatkami pieniężnymi.
+-wpływy:
+sprzedaż dóbr i usług, otrzymane odsetki, dywidendy
+-wydatki:
+wypłata wynagrodzeń, inne wydatki z tyt. kosztów, zakup dóbr i usług, wypłata odsetek, zapłata podatków
+Obszar inwestycyjny:
+przepływy z tej sfery dotyczą wpływów i wydatków związanych z nabywaniem lub zbywaniem składników aktywów trwałych i krótkoterminowych aktywów finansowych oraz wszystkich związanych z nimi pieniężnych kosztów i korzyści.
+-wpływy: 
+sprzedaż rzeczowych skł. majątku trwałego, spłata udzielonych pożyczek, sprzedaż obcych papierów wartościowych
+-wydatki: 
+zakup rzeczowych skł. majątku trwałego, zakup obcych papierów wartościowych, udzielanie pożyczek
+Obszar finansowy:
+przepływy te pokazują zmiany w rozmiarach i relacjach kapitału własnego i obcego oraz wszystkie związane z nimi pieniężne koszty i korzyści. Dotyczą pozyskiwania źródeł finansowania.
+-Wpływy: 
+emisja kapitałów własnych oraz otrzymane kapitały własne
+-wydatki: 
+spłata kredytu, dywidendy, wykup lub umorzenie kapitału własnego 
+
+23. Sprowadzanie przychodów do poziomu wpływów (zadania)
+
+Przychody operacyjne – (Należności T1 – Należności T0)= wpływy
+
+24. Sprowadzanie kosztów do poziomu wydatków (zadania)
+
+Koszty – amortyzacja +(Zapasy T1 – Zapasy T0) - (Zobowiązania T1 – Zobowiązania T0) = wydatki
+
+25. Podaj, w jaki sposób zwiększa się wartość księgowa kapitału własnego?
+
+• Przekazanie zysku na kapitał (metoda pośrednia)
+• Bezpośrednie dopłaty udziałowców (metoda bezpośrednia)
+• Aktualizacja aktywów trwałych (sztuczne urealnienie)
+
+26. Koszt kapitału własnego to: 
+a. odsetki od kredytów;
+b. oprocentowanie bonów skarbowych;
+c. przeciętny rynkowy zwrot z inwestycji w kapitał własny o tym samym ryzyku;
+d. koszt emisji akcji; e. dywidendy
+
+c
+
+27. Koszty utrzymania sklepu (stałe) wynoszą 3000,- zł  miesięcznie. Ile procent marży liczonej od wartości zakupionego towaru musi stosować sklep, aby przy sprzedaży miesięcznej 20 000,- zł  zysk miesięczny wyniósł 1 000,-zł. a) 25%        b) 20%      c) 18%     d) 15%     e) 30%	f) inne?
+
+Z = P – (Kz +Ks)
+Kz= P – Ks – Z
+Kz = 20 000 – 3 000 – 1000 = 16 000 zł
+D/Kz  = (P-Kz)/Kz = (20 000 – 16 000)/ 16 000 = 0,25 = 25%
+Ks= 3 000 zł
+P= 20 000 zł
+Z = 1 000 zł
+
+28. Cykl środków pieniężnych to: 
+a. rotacja zobowiązań + rotacja zapasów - rotacja należnosci, 
+b. rotacja nalezności + rotacja zapasów - rotacja zobowiązań, 
+c. rotacja nalezności + rotacja zapasów + rotacja zobowiąń, 
+d. rotacja nalezności - rotacja zapasów - rotacja zobowiąń,  
+
+b
+
+29. Który z kapitałów ponosi ryzyko działalności gospodarczej: 
+a) obcy         
+b) łączny       
+c) własny      
+d) długoterminowy obcy     
+e) obrotowy?
+
+c
+
+30. Efekt dźwigni finansowej w roku t jest
+
+Kapitał własny
+14 000
+Kapitał obcy
+11 000
+Przychody operacyjne
+22 400
+Koszty operacyjne
+18 600
+koszt kapitału obcego
+14%
+EBIT
+3 800
+Stopa podatkowa
+20%
+Zysk brutto
+2260
+Zysk netto
+1808
+EBIT > EBITx
+EBIT=3 800
+EBITx=Kł*iko
+iko=14%
+Kł=14 000+11 000=25 000
+EBITx=25 000 * 14%=3 500
+ EBIT (3 800) > EBITx (3 500) zachodzi pozytywny efekt dźwigni finansowej
+2 sposób
+(EBIT/KŁ) * 100% > iko
+(3800/25000) * 100% > iko
+15,2% > iko
+
+31. Bilans przedsiębiorstwa przedstawia:
+a. przychody i koszty,
+b. wpływy i wydatki,
+c. sytuację majątkowo finansową przedsiębiorstwa,
+d. sytuację finansowo podatkową przedsiębiorstwa.
+
+c
+
+32. Częścią wspólną bilansu i sprawozdania z przepływów środków pieniężnych jest
+a. zmiana zysku netto,
+b. zmiana stanu zobowiązań i należności,
+c. zmiana stanu środków pieniężnych,
+d. zmiana stanu zobowiązań
+e. zmiana przychodów
+
+c
+
+33. pozytywny efekt dźwigni finansowej oznacza, że:
+a. wzrost kosztów stałych podnosi rentowność kapitałów łącznych,
+b. wzrost przychodów podnosi rentowność kapitałów własnych,
+c. wzrost zadłużenia podnosi rentowność kapitałów łącznych,
+d. wzrost zadłużenia podnosi rentowność kapitałów własnych.
+
+c
+
+34. Gdyby przedsiębiorstwo korzystało tylko z kapitału własnego (kapitał łączny pozostaje na tym samym poziomie) to rentowność brutto tego kapitału w roku t byłaby niższa czy wyższa i o ile procent? (dane z tab. 1)
+
+Zadłużenie:
+KO=11 000, KW=14 000  ZB=EBIT-Od=3 800 – 14%11 000=2 260
+Rkw(0)=ZB/KW=2260/14 000=16,1%
+Bez zadłużenia:
+Rkw(1)=Rkł = EBIT/KŁ=3 800/ 25 000=15,2% -->nie mamy zadłużenia
+16,1 – 15,2 = 0,9%. Zmieni się o 0,9% ILOŚĆ a nie %.
+
+35. Podaj jak zmieni się oddziaływania dźwigni w roku t , gdy zadłużenie wzrośnie do 60% (kapitał łączny bez zmian). (dane z tab. 1)
+
+Rkw= Rkł= EBIT/KŁ=3 800/25 000=15,2% --> gdy nie mamy zadłużenia
+KO=60%z 25000=15 000
+KW=10 000
+Rkw= Rkł+?Rkw
+?Rkw= KO/KW(Rkł-iko)
+?Rkw=15/10 (15,2%-14%)=1,8% (rentowność wzrośnie o 1,8 punktów procentowych)
+Rkw=15,2%+1,8%=17%
+LUB
+(EBIT – KO*iko)/ KW
+3800 – 15000*(14/100)
+3800 – 2100 = 1700
+1700/10000 = 17%
+17 – 15,2 = 1,8 pkt procentowych.
+
+36. Który z czynników przyczynił się do wzrostu rentowności operacyjnej kapitałów łącznych na przestrzeni okresu od t do t+1 ? (dane z tab. 1)
+
+Rkł=(EBIT/sprzedaż)*(sprzedaż/KŁ)
+Rkł(t)=3 800/25 000=15,2% -->EBIT/sprzedaż=3 800/22 400=16,9, sprzedaż/KŁ=22 400/25 000=89,6
+Rkł(t+1)=4 800/30 000=16% -->EBIT/sprzedaż=4 800/29 000=16,5, sprzedaż/KŁ=29 000/30 000=96,6
+Do wzrostu rentowności operacyjnej kapitałów łącznych w okresie od t do t+1 przyczynił się czynnik : szybkość obrotu kapitałem sprzedaż/KŁ
+
+37. ile procent może spaść EBIT w roku t aby efekt dźwigni finansowej pozostał pozytywny. (dane z tab. 1)
+
+EBITx=Kł*iko
+EBITx=25 000 * 14%=3 500
+%?EBIT=(3500-3800)/3800=-7,89%
+EBIT może spaść o maksymalnie 7,89% aby efekt dźwigni finansowej pozostał pozytywny.
+
+38. Jakich korzyści oczekują przedsiębiorstwa sięgając po zadłużenie?
+
+Przedsiębiorstwo sięgając po zadłużenie oczekuje wzrostu rentowności kapitałów własnych powyżej kapitałów obcych. 
+
+39. Co to jest optymalna struktura zadłużenia?
+
+Optymalna struktura zadłużenia jest to określenie ile powinno się wnieść kapitału własnego i obcego aby mieć jak największe korzyści z rentowności kapitału własnego oraz ryzykiem.
+
+40. Zbadaj efekt dźwigni finansowej w roku t+1. (na dwa sposoby) (dane z tab. 1)
+
+EBIT>EBITx
+EBITx=Kł*iko
+EBITx=30 000 *17%=5 100
+EBIT=4 800
+EBIT<EBITx co oznacza negatywny efekt dźwigni finansowej
+ZB=EBIT-Od=4 800 – 17% 30 000=2080
+Rkw/Rkł >1
+Rkw=ZB/KW
+Rkw=2080/14 000=14,8%
+Rkł=EBIT/KŁ
+Rkł=4 800/30 000=16 %
+14,8%/16%=0,925  (jest < 1 co oznacza negatywny efekt dźwigni finansowej)
+
+41. Wyjaśnij co oznacza pojęcie „efektywny koszt kredytu”.
+
+To faktycznie zapłacone odsetki w odniesieniu do całości zadłużenia.
+
+42. Oblicz cykl inkasa w dniach w roku t (dane z tab. 1)
+
+Cykl inkasa = strumień / stan należności
+Cykl inkasa = przychody operacyjne netto / należności  =  22 400 / 3 300 = 6,78 cyklu
+W dniach = (3300/22400)*365 = 53 Dni
+lub
+Czyli 365dni /  6,78cyklu = 53,83 ? 53 dni
+
+43. Wyjaśnij w jaki sposób przejawia się wzrost ryzyka wynikający ze wzrostu zadłużenia.
+
+Wzrost ryzyka wynikający ze wzrostu zadłużenia przejawia się w wzmacnianiu niekorzystnych skutków w warunkach słabej koniunktury. 
+(Przedsiębiorstwa sięgają po kapitały obce z uwagi na podwyższenie rentowności kapitałów własnych- następuje to w warunkach dobrej koniunktury, przy której zaciągnięte kredyty nie tylko zarobią na siebie, ale też dadzą nadwyżkę, która podniesie rentowność kapitałów właścicieli. Jeżeli jednak w konsekwencji załamania się koniunktury nastąpi spadek zysku operacyjnego i rentowność operacyjna będzie niższa od stopy oprocentowania kapitału obcego, to wówczas wypożyczone kapitały pogorszą sytuację, powodując, że przedsiębiorstwo poniesie stratę wcześniej (tzn. przy wyższej sprzedaży), niż gdyby nie korzystało z kapitału obcego. Czyli oprócz strat przedsiębiorstwo musi też doliczyć koszty finansowe kapitału obcego – odsetki.)
+
+44. Jakie czynniki wpływają na rentowność kapitału łącznego
+
+-rentowność operacyjna sprzedaży (zysk jaki generujemy na sprzedaży):    EBIT/sprzedaż
+-szybkość obrotu kapitałem  (ilość sprzedaży uzyskanej z jednostki zaangażowanego kapitału):             sprzedaż/KŁ
+
+45. Jakie czynniki wpływają na rentowność kapitału własnego.
+
+-rentowność operacyjna kapitałów łącznych EBIT/KŁ= (EBIT/sprzedaż)x(sprzedaż/KŁ)
+-stopień dźwigni finansowej ?Rkw= KO/KW*(Rkł-iko)   
+[ KO/KW struktura kapitału
+(Rkł-iko) efekt dźwigni finansowej]
+
+46. Jakie decyzje wywołują wzrost wspomagania operacyjnego?
+
+Decyzje w zakresie kooperacji (produkujemy wszystko sami czy podzlecamy). Wspomaganie operacyjne rośnie gdy zwiększamy głębokość, wytwarzamy większą wartość dodaną-produkujemy wszystko sami. (cena: rośnie, kjz: rosną)
+
+47. Jakie konsekwencje ekonomiczne wywołuje wyższe wspomaganie operacyjne.
+
+Wzrost wspomagania operacyjnego zwiększa wrażliwość zmiany EBIT na zmianę wielkości sprzedaży. Rośnie też prawdopodobieństwo straty. Przy dobrej koniunkturze wyższe wspomaganie jest bardziej opłacalne – generuje wyższe zyski niż przedsiębiorstwa z niższym wspomaganiem operacyjnym ale przy złej koniunkturze wystąpi większa strata niż przedsiębiorstwa z niższym wspomaganiem operacyjnym. Im większa dźwignia operacyjna tym większe ryzyko, trudno się wtedy pozbyć kosztów stałych czyli majątku trwałego, który trudno upłynnić. 
+
+48. Wyjaśnij w jaki sposób przejawia się wzrost ryzyka wynikający ze wzrostu wspomagania operacyjnego.
+
+Wyższe wspomaganie zapewnia większą zdolność do generowania zysku w warunkach dobrej koniunktury, gdy jednak koniunktura się załamie i sprzedaż spadnie, grozi to poniesieniem większej straty. Z kolei niskie wspomaganie nie zapewnia wysokich zyskowi warunkach dobrej koniunktury, ale również nie grozi dużymi stratami w razie złej koniunktury. 
+
+49. Z jakich elementów się  składa i czym przejawia ryzyko własne przedsiębiorstwa
+
+Na ryzyko własne przedsiębiorstwa składa się: 
+- ryzyko czyste – niezależne od działań człowieka 
+- ryzyko spekulatywne – zależne od działań człowieka 
+Ryzyko własne przedsiębiorstwa uzależnione jest od ryzyka rynkowego, które przejawia się niestabilnością sprzedaży. Ryzyko to wzmacniane jest ryzykiem dźwigni operacyjnej i przejawia się niestabilnością EBIT, a to z kolei wzmacniane jest ryzykiem dźwigni finansowej i przejawia się niestabilnością kapitałów własnych.
+
+50. Dane:  
+Sprzedaż = 1340,- ;
+EBIT = 234,- ;
+Zysk brutto = 57,-;
+Rentowność kap. własnych = 24%; 
+Gdy DTL = 3, to przy wzroście sprzedaży o 10%:
+
+Rozwiązanie:
+%?Q=10%       
+DTL= %?Rkw/%?Q
+%?Rkw= DTL*%?Q
+%?Rkw=3*10%=30%
+EBIT=24 + (0.3*24)=31,2%
+
+51. Dane: 
+Sprzedaż = 1540,-;
+EBIT = 240;
+Zysk brutto = 45;
+Rentowność kapitałów własnych = 28,6%;
+Kapitał łączny = 1500;
+Rent. kap. łącznych = 16%;
+Gdy DFL = 2,5  to przy wzroście EBIT o 5%:  
+
+Rozwiązanie:
+%?EBIT=5%       
+DFL= %?Rkw/%?EBIT
+%?Rkw= DFL*%?EBIT
+%?Rkw=2,5 *5%=12,5%
+Rkw=28,6 + (0.125*28,6)=32,175%
+      
+52. Podaj ogólną formułę wskaźników płynności i zalecane przedziały ich wartości.
+
+-wskaźnik płynności natychmiastowej (I stopnia): środki pieniężne/zobowiązania bieżące [zalecana wartość wynosi 10-20%]
+-wskaźnik płynności szybkiej (II stopnia): środki pieniężne + należności/zobowiązania bieżące [zalecana wartość wynosi 1]
+-wskaźnik płynności bieżącej (III stopnia): środki pieniężne+ należności +zapasy (środki obrotowe ogółem)/zobowiązania bieżące[zalecana wartość wynosi 1,2-2]
+
+53. Co to jest rotacja składników poszczególnych aktywów obrotowych i jakich dostarcza informacji?
+
+Rotacja, czyli obrót składników majątkowych, jest to szybkość, z jaką zmieniają one swoją postać, określana w ilościach cykli obrotowych jakie wykonują w badanym okresie, lub w długości trwania cyklu, wyrażonego np. w dniach, tygodniach itd. Pomiaru rotacji dokonujemy przez zestawienie stanu (średniego, krańcowego) składnika majątkowego ze strumieniem tego składnika, czyli skumulowanym stanem tego składnika. 
+
+54. Co to jest cykl środków pieniężnych i jakich dostarcza informacji?
+
+Cykl konwersji gotówki. Cykl środków pieniężnych to okres, jaki upływa od momentu wydania pieniędzy na sfinansowanie majątku obrotowego do ich powrotu (wpływy z tyt. sprzedaży). Informuje po ilu dniach (tygodniach bądź miesiącach) pieniądze powracają do przedsiębiorstwa, a więc przez ile dni potrzebny jest kapitał do sfinansowania majątku obrotowego. 
